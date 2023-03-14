@@ -29,7 +29,7 @@ public class calcular {
 			double qtKg3 = sc.nextDouble();
 			System.out.println(A * qtKg3);
 			valor3 = A * qtKg3;
-
+              
 			double L;
 			L = 20.99;
 			System.out.println("quantos kg foram comprado de Linguça  ");
